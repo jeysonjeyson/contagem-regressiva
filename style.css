@@ -1,11 +1,11 @@
 body {
-    background: url("./img/natal2.jpg") no-repeat center;
+    background: #333;
     font-family: 'Indie Flower', cursive;
 }
 
 h1 {
-    font-size: 6rem;
-    color: rgb(115, 146, 98);
+    font-size: 5rem;
+    color: rgb(195, 75, 75);
     text-align: center;
     margin-top: 5rem;
 }
