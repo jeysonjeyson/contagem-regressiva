@@ -2,8 +2,8 @@ import Countdown from './countdown.js';
 const natal = document.querySelector('.natal');
 const novo = document.querySelector('.novo');
 
-const tempoParaONatal = new Countdown('24 December 2020 23:59:59 GMT-0300');
-const tempoParaOAnoNovo = new Countdown('31 December 2020 23:59:59 GMT-0300');
+const tempoParaONatal = new Countdown('02 February 2022 23:59:59 GMT-0300');
+
 
 
 setInterval(() => {
